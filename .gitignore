@@ -1,0 +1,11 @@
+*.csv
+*.zip
+*.png
+*.jpg
+.conda
+.history
+__pycache__
+*.h5
+*.keras
+wandb
+*.txt
